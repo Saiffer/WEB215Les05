@@ -23,10 +23,10 @@ yarn-debug.log*
 yarn-error.log*
 
 browser1
-borwser2
+browser2
 path-env
 requirejs-example
 transforms-brfs
-transfomrs-bulkify
+transforms-bulkify
 transforms-folderify
-transfomrs-shim
+transforms-shim
